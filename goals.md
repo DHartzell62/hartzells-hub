@@ -45,9 +45,20 @@
 - [ ] For Canadian County leads — confirm CKenergy territory and quote $2,000/ton rebate
 - [ ] Check geo giveaway entry count (target: 50+ by June 30)
 
+### Photos & GBP
+- [ ] Upload 4 photos to Google Business Profile — browse Z:/CompanyCam_Backup, copy keepers to Z:/google/, rename descriptively before upload
+- [ ] Add 1 GBP post — job highlight, tip, or seasonal promo
+- [ ] Check GBP for new Q&A activity or questions to answer
+
 ### Content & Brand
-- [ ] Post one piece of content — YouTube Short, GBP update, or Facebook post
+- [ ] Post 1 YouTube Short — use standard description template (45 yrs experience, local service, consulting offer, booking link, SEO hashtags)
+- [ ] Post to Facebook or Instagram — job photo, before/after, or tip
 - [ ] Check koi pond (not business — just Dave)
+
+### Website & SEO
+- [ ] Check Google Search Console for new crawl errors or coverage drops
+- [ ] Verify review count — update site-wide when it hits 270, 280, 300, 325
+- [ ] Flag any page needing a content update (rebate amounts, pricing, promos)
 
 ---
 
