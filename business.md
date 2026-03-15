@@ -1,15 +1,13 @@
 # Hartzell's Heat & Air — Business Reference
 
 ## Owner
-**Dave Hartzell** | dave@hartzellsheatair.com | 405-375-4822 (business) | 405-206-1791 (cell)
+**Dave Hartzell** | dave@hartzellsheatair.com | 405-375-4822 (business)
 
 ## Business
 - **Founded:** ~2011 (15+ years in business)
 - **Dave's HVAC career:** 45 years (started at 18, now 63)
 - **Prior:** 12 years at a now-closed competitor before opening Hartzell's
 - **Office:** 602 S Main St, Kingfisher OK 73750 *(public-facing address)*
-- **Warehouse:** 107 N Main, Kingfisher OK *(do not use in public listings)*
-- **Geo coords:** 35.8556458, -97.9327647
 - **Website:** hartzellsheatair.com
 
 ## Credentials
@@ -51,8 +49,6 @@ Trane, RunTru (by Trane), Mitsubishi, Daikin, Amana, Carrier, American Standard,
 | Geo Basic | $360 |
 | Geo Plus | $428 |
 | Geo 360 | $499 (loop repressurization included) |
-| WH Tune-Up | — |
-| WH 360 | — |
 
 **PMA note:** Dispatch is waived ONLY on the included annual maintenance visit. Repair calls still pay $99.
 
@@ -85,21 +81,20 @@ Synchrony, Wells Fargo, Wisetack
 ---
 
 ## Key Business Tools
-| Tool | Details |
+| Tool | Purpose |
 |------|---------|
-| Field management | HCP (Housecall Pro) — API key: 23337bd0f995487e957a2268734f88d8 |
-| SMS/marketing | Twilio A2P — sending # +14058050738 |
-| Website CMS | WordPress — hartzellsheatair.com |
-| Analytics | GA4: G-N72ZPDMCN8 \| GTM: GTM-PQLKLWTG |
-| Google Ads | Account: 8853457008 |
-| CRM/booking | HCP |
-| Warranties | JB Warranties (JBW) |
+| HCP (Housecall Pro) | Field management, CRM, booking |
+| Twilio | SMS marketing + A2P messaging |
+| WordPress | hartzellsheatair.com CMS |
+| GA4 / GTM | Analytics |
+| Google Ads | Paid search |
+| JB Warranties | Extended warranty program |
 
 ---
 
-## Staff Notes
-- **Shelby** — mini-split specialist ("mini-split queen")
-- Dave does estimates, geo installs, complex diagnostics
+## Staff
+- **Dave Hartzell** — owner, estimates, geo installs, complex diagnostics
+- **Shelby** — mini-split specialist
 
 ---
 
