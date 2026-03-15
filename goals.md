@@ -173,6 +173,27 @@
 - [ ] Amazon HVAC book — research self-publishing + Amazon Ads strategy
 - [ ] Fix HCP lead source tagging — 96% currently "Unknown"
 
+### Manufacturer & Directory Listings (30-day project)
+- [ ] Audit all dealer locator listings: Trane, ClimateMaster, Mitsubishi, Amana, Carrier, WaterFurnace, BBB, IGSHPA
+- [ ] Build /partners/ landing page with UTM links for each brand directory
+- [ ] Submit UTM-tracked URL to each directory (utm_source=trane, climatemaster, etc.)
+- [ ] Request followed links where policy allows — email each brand marketing contact
+- [ ] Fill service area fields on every listing (Kingfisher, Canadian, Logan, Blaine + towns)
+- [ ] Confirm GeoElite badge showing on ClimateMaster locator
+- [ ] Confirm Diamond Dealer badge showing on Mitsubishi locator
+- [ ] Add /partners/ URL to GBP as additional link (Appointments/Products section)
+
+### Apple & Bing Maps (Dave does these — requires login)
+- [ ] Claim/verify Apple Business Connect — add Primary Action "Book" link with UTM
+- [ ] Claim/verify Bing Places — add booking URL with utm_source=bing_maps
+- [ ] Add special hours and service categories to both
+
+### Homepage A/B Test
+- [ ] Score current homepage hero vs. 3 competitors on 5-metric grid (Clarity/CTA/Urgency/Trust/Mobile)
+- [ ] Build Variant A: headline = "Same-Day AC Diagnostic — $111 (credited to repair)", single teal Book Now CTA, trust strip (4.8★ / NATE / BBB / Financing)
+- [ ] Launch 50/50 A/B test — 7 days or 500+ sessions
+- [ ] KPI: +20% booking CTR vs. control
+
 ---
 
 ## Operations Goals 2026
@@ -186,6 +207,14 @@
 - [ ] Launch monthly billing option for Dave's 360 — $30/month (= $360/yr)
 - [ ] Standardize geo tags in HCP — use "Geothermal" + "Install 20XX" on every geo job
 - [ ] Wire UTM parameters consistently — every ad click sets HCP lead source
+
+### Analytics (GA4 / GTM)
+- [ ] Add GA4 custom events: click_cta, start_booking, step_progress, submit_success, submit_error
+- [ ] Add custom dimensions in GA4: booking_id, booking_method, cta_id, step_name, booking_origin
+- [ ] Build booking funnel in GA4 Explorations — click_cta → start_booking → submit_success
+- [ ] Set GA4 event retention to 14 months
+- [ ] Enable BigQuery daily export for raw event storage
+- [ ] Alert: flag if submit_error at final step >5% or booking conversion <1.5% over 7 days
 
 ---
 
