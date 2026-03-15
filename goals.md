@@ -4,6 +4,16 @@
 
 ---
 
+## Right Now
+- [ ] Fix rejected ad URLs and resubmit
+- [ ] Spring PMA SMS campaign — must run before April
+- [ ] Build Wall Geothermal competitor campaign
+- [ ] Build Hollifield competitor campaign
+- [ ] Post GBP Q&As (5 drafted — business.google.com)
+- [ ] Wire Guthrie geo page (ID 5475) into Services hub
+
+---
+
 ## Baseline (from HCP)
 - **2025 revenue:** $941,582 (1,203 jobs, 799 completed)
 - **2026 YTD (Jan–Mar 15):** $246,610 (165 jobs, 84 completed)
