@@ -42,6 +42,17 @@
 
 ---
 
+## Auction Insights (last checked March 2026)
+| Competitor | Impression Share | Overlap Rate | Above You |
+|------------|-----------------|-------------|-----------|
+| integrityheatandair.com | 13.06% | 22.17% | 43.11% |
+| Hartzell's | 12.54% | — | — |
+| comfortwave.com | <10% | 9.16% | 51.08% |
+| suntechokc.com | <10% | 6.45% | 25.95% |
+| asapheatandair.com | <10% | 9.11% | 44.86% |
+
+---
+
 ## Local Services Ads (LSA)
 - **Budget:** $435/week | **Target CPL:** $85
 - **12-month results:** 333 charged leads | $68/lead avg | 27+ leads/month
@@ -117,6 +128,15 @@
 
 ---
 
+## Competitor Conquesting Ad Group
+- Lives inside: HHA – Repair – Kingfisher campaign
+- Keywords: integrity heat and air, comfortwave okc, suntech okc, asap heat and air
+- RSA pinned: "Top-Rated Kingfisher HVAC" pos 1 | "4.8 Stars / 262 Reviews" pos 2
+- Landing page: /ac-repair-kingfisher-ok
+- Rule: cannot use competitor names in ad copy — use "See Why We Rate Higher" etc.
+
+---
+
 ## Brand Protection
 - Campaign: HHA - Brand Protection | 2026
 - 14 exact + phrase keywords on all "hartzell" name variations
@@ -133,6 +153,13 @@
 - [ ] Meta remarketing campaign — Pixel live, build homeowner audience
 - [ ] ElevenAgents AI voice — inbound call triage after-hours (start after SMS A2P approved)
 - [ ] GBP API access — submit at support.google.com/business/contact/api_default
+
+---
+
+## Hiring Campaign
+- Campaign: HHA – Hiring – HVAC / Geothermal
+- Always-on recruiting — not weather-boosted
+- Targets HVAC techs and geo installers
 
 ---
 
