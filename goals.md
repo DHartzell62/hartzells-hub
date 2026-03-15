@@ -16,6 +16,8 @@
 
 ## Right Now
 - [x] Fix rejected ad URLs and resubmit — done Mar 15, awaiting Google re-review
+- [x] WH plan SOPs created — wh-plan-sop.md (call taker + tech upsell scripts)
+- [x] WH plan PDFs v1.0 archived — Z:\Forms\Water Heater Plans\
 - [ ] Launch geo owner free PMA campaign — SMS to 46 geo customers by March 20
 - [ ] Spring PMA SMS campaign — must run before April 1
 - [ ] Build Wall Geothermal competitor campaign
@@ -23,6 +25,7 @@
 - [ ] Post GBP Q&As (5 drafted — business.google.com)
 - [ ] Wire Guthrie geo page (ID 5475) into Services hub
 - [ ] Update /win-free-hvac-plan/ with Geo 360 prize details
+- [ ] Move all PMA forms to Z:\Forms\ with version numbers (HVAC PMAs, Geo PMAs, repair/replace checklist)
 
 ---
 
