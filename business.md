@@ -6,8 +6,11 @@
 ## Business
 - **Founded:** ~2011 (15+ years in business)
 - **Dave's HVAC career:** 45 years (started at 18, now 63)
+- **Education:** Oklahoma State University
+- **Background:** Grew up helping electrician father from age 10; wired first home at 14; ran 4-man electrical crew in high school; held electrical license for years
 - **Prior:** 12 years at a now-closed competitor before opening Hartzell's
 - **Office:** 602 S Main St, Kingfisher OK 73750 *(public-facing address)*
+- **Warehouse:** 107 N Main, Kingfisher OK *(internal only — not for listings)*
 - **Website:** hartzellsheatair.com
 
 ## Credentials
@@ -18,9 +21,10 @@
 - Trane TCS SELECT (Comfort Specialist)
 - ClimateMaster GeoElite Dealer
 - Bradford White Authorized Water Heater Dealer
-- Amana Authorized Dealer
+- Amana Brand Advantage Dealer (Asure extended service plans; lifetime warranties on preferred systems; USA-made)
 - Carrier Authorized Dealer
 - American Standard Authorized Dealer
+- **BBB A+ Rating** — 11 consecutive years
 
 ## Brands Sold / Serviced
 Trane, RunTru (by Trane), Mitsubishi, Daikin, Amana, Carrier, American Standard, ClimateMaster, WaterFurnace, Samsung, ACiQ
@@ -104,3 +108,10 @@ Synchrony, Wells Fargo, Wisetack
 - Community-first, small-business pride
 - **Avoid:** "we strive to", "committed to excellence", corporate filler
 - **Always use:** "Call 405-375-4822" not "contact us today"
+- **CTA button text:** "Book Online" (official — use everywhere)
+- **Tone:** Concise, professional, touch of humor, upbeat
+
+## Social Media
+- Facebook: facebook.com/hartzellsheatair
+- Instagram: instagram.com/hartzellsgeo
+- YouTube: youtube.com/channel/UC-fWFS7gBfkP-wSUORdeLAg
