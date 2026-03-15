@@ -165,9 +165,9 @@ Hartzell's JBW labor rate: **$105/hr**
 ## Maintenance Plans (PMA)
 | Plan | Price/yr | Best For |
 |------|----------|----------|
-| Tune-Up PMA | $138 | Budget-conscious, 1 system |
-| Basic PMA | $189 | Standard residential |
-| Dave's 360 | $360 | Full protection + 15% repair discount |
+| Tune-Up PMA | $138/yr | Budget-conscious, 1 system |
+| Basic PMA | $189/yr or $15.75/mo | Standard residential |
+| Dave's 360 | $360/yr or $30/mo | Full protection + 15% repair discount |
 | Geo Basic | $360 | Geothermal systems |
 | Geo Plus | $428 | Geo + extras |
 | Geo 360 | $499 | Full geo + loop repressurization |

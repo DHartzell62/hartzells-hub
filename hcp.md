@@ -66,8 +66,8 @@
 | Plan | Price/yr | HCP Page ID |
 |------|----------|-------------|
 | Tune-Up PMA | $138 | 2804 |
-| Basic PMA | $189 | 2805 |
-| Dave's 360 | $360 | 2806 |
+| Basic PMA | $189/yr or $15.75/mo | 2805 |
+| Dave's 360 | $360/yr or $30/mo | 2806 |
 | Geo Basic | $360 | — |
 | Geo Plus | $428 | — |
 | Geo 360 | $499 | — |

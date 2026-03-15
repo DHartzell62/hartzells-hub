@@ -58,8 +58,8 @@
 - [ ] HCP pricebook: add Trane Bundles (pending)
 - [ ] Spring PMA SMS campaign — run before April
 - [ ] Add kitchen ventilation through the roof as a service offering
-- [ ] Develop Basic Comfort Package — $15.75/month membership plan
-- [ ] Develop Dave's Premium Comfort Package — $30/month membership plan
+- [ ] Launch monthly billing option for Basic PMA — $15.75/month (= $189/yr)
+- [ ] Launch monthly billing option for Dave's 360 — $30/month (= $360/yr)
 
 ---
 
