@@ -14,19 +14,82 @@
 
 ---
 
-## Baseline (from HCP)
-- **2025 revenue:** $941,582 (1,203 jobs, 799 completed)
-- **2026 YTD (Jan–Mar 15):** $246,610 (165 jobs, 84 completed)
-- **2026 pace:** ~$1.18M annualized at current run rate
-- **Total customers in HCP:** 2,593
+## Weekly Habits
+*Do these every week — non-negotiable.*
+
+- [ ] Review Google Ads search terms report — add negatives, flag new keywords
+- [ ] Check LSA leads — dispute any out-of-area charges
+- [ ] Ask for Google review verbally on every completed job
+- [ ] Review HCP open estimates — follow up at day 7 (14-day credit window)
+- [ ] Upsell PMA on every completed repair visit
+- [ ] Check cancellation list — note any patterns
+
+---
+
+## Monthly Focus
+
+### March 2026
+- [ ] Spring PMA SMS campaign live
+- [ ] Wall Geo + Hollifield competitor campaigns built
+- [ ] GBP Q&As posted
+- [ ] Verify competitor ad re-approvals after URL fix
+
+### April 2026
+- [ ] Geo giveaway push — entries target 25+ by end of April
+- [ ] Review cost per lead on all competitor campaigns
+- [ ] Monthly billing option (Basic + Dave's 360) — set up in HCP
+- [ ] Search terms audit on all active campaigns
+
+### May 2026
+- [ ] Trane Bundles added to HCP pricebook
+- [ ] Homeowner pricebook PDF — first draft
+- [ ] Technician sales training — script and checklist complete
+
+---
+
+## Quarterly Goals
+
+### Q1 2026 (Jan–Mar)
+- [x] Competitor campaigns live — $48/day, 5 campaigns
+- [x] Geo giveaway page live (/win-free-hvac-plan/)
+- [x] Google Ads conversion tracking fixed
+- [x] LSA service area cleaned up
+- [x] Weather-triggered budget script running
+- [ ] Spring PMA SMS campaign — before April 1
+- [ ] GBP Q&As posted
+
+### Q2 2026 (Apr–Jun) — Peak Season
+- [ ] Geo installs: 8–10 units by June 30
+- [ ] Geo giveaway: 50+ entries by June 30
+- [ ] PMA baseline count established — target 150 active
+- [ ] Wall Geo + Hollifield campaigns live and optimized
+- [ ] Cost per lead measured on all competitor campaigns
+- [ ] BOGO PMA promotion launched
+- [ ] Monthly billing option live in HCP
+
+### Q3 2026 (Jul–Sep)
+- [ ] Geo installs: 15+ cumulative
+- [ ] Average ticket at $1,000+
+- [ ] Technician sales training assets complete
+- [ ] Community-building / email funnel first version live
+- [ ] Lead magnet published (PDF or mini-course)
+
+### Q4 2026 (Oct–Dec)
+- [ ] Geo installs: 20+ cumulative (on target for $400K+)
+- [ ] PMA renewals campaign — SMS + email
+- [ ] Review count: 325+
+- [ ] Follow-up funnels live (5-email nurture + 3-email upsell)
+- [ ] Amazon HVAC book — research complete, plan in place
+- [ ] 2027 planning — campaigns, geo push, budget
 
 ---
 
 ## 2026 Revenue Goal: $1,500,000
 
-**Gap from pace:** ~$320K above current trajectory — achievable with higher-ticket jobs and better close rates.
+**Baseline:** 2025 = $941,582 (1,203 jobs) | 2026 YTD Mar 15 = $246,610 (165 jobs)
+**Pace:** ~$1.18M annualized | **Gap:** ~$320K above current trajectory
 
-### How to get there
+### Levers
 | Lever | Current | Target | Impact |
 |-------|---------|--------|--------|
 | Geo installs | — | 20+ units | ~$400K+ |
@@ -35,13 +98,6 @@
 | Competitor campaign leads | 0 (new) | 50+ qualified | TBD |
 | Geo giveaway leads | 0 (new) | 50+ by June | Pipeline |
 | Woodward area geo | 0 | 3–5 installs | ~$75K |
-
-### Higher Profit Focus
-- Push geo installs (highest margin job type)
-- Upsell PMA on every completed repair
-- $111 diagnostic → repair conversion rate improvement
-- Reduce cancellations (305 in 2025 = significant lost revenue)
-- Quote same-day premium on emergency calls
 
 ---
 
@@ -56,7 +112,7 @@
 - [ ] GBP API access approved (applied — check okcommerce.gov)
 - [ ] IGSHPA directory listing optimized
 - [ ] ClimateMaster dealer locator listing current
-- [ ] Align website/content for AI search (ChatGPT + Google AI Overview) — conversational content, authority signals
+- [ ] Align website/content for AI search (ChatGPT + Google AI Overview)
 - [ ] Amazon HVAC book — research self-publishing + Amazon Ads strategy
 
 ---
