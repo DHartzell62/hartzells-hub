@@ -5,7 +5,7 @@
 ---
 
 ## Right Now
-- [ ] Fix rejected ad URLs and resubmit
+- [x] Fix rejected ad URLs and resubmit — done Mar 15, awaiting Google re-review
 - [ ] Spring PMA SMS campaign — must run before April
 - [ ] Build Wall Geothermal competitor campaign
 - [ ] Build Hollifield competitor campaign
