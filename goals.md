@@ -17,12 +17,37 @@
 ## Weekly Habits
 *Do these every week — non-negotiable.*
 
-- [ ] Review Google Ads search terms report — add negatives, flag new keywords
-- [ ] Check LSA leads — dispute any out-of-area charges
-- [ ] Ask for Google review verbally on every completed job
-- [ ] Review HCP open estimates — follow up at day 7 (14-day credit window)
-- [ ] Upsell PMA on every completed repair visit
-- [ ] Check cancellation list — note any patterns
+### Revenue & Sales
+- [ ] Upsell PMA on every completed repair — every single visit
+- [ ] Quote same-day premium on every emergency call — no exceptions
+- [ ] Follow up on open HCP estimates at day 7 (14-day credit window closes)
+- [ ] Offer JBW warranty on every new system install
+- [ ] Present financing on every estimate over $2,000
+
+### Google Ads & Marketing
+- [ ] Review search terms report — add negatives, flag new keywords
+- [ ] Check LSA leads — dispute any out-of-area charges within the week
+- [ ] Check auction insights — watch for new competitors entering your territory
+- [ ] Review campaign budgets vs. leads — adjust if a campaign is overspending or starving
+
+### Reviews & Reputation
+- [ ] Ask verbally for Google review on every completed job
+- [ ] Respond to any new Google reviews within 48 hours
+- [ ] Check for new negative reviews — call customer within 24 hours if found
+
+### Operations
+- [ ] Check HCP cancellation list — note patterns (time of year, job type, tech)
+- [ ] Track same-day service turns — how many did we turn down this week?
+- [ ] Verify dispatch fees collected on all closed jobs
+
+### Geo Pipeline
+- [ ] Follow up on any open geo estimates or leads
+- [ ] For Canadian County leads — confirm CKenergy territory and quote $2,000/ton rebate
+- [ ] Check geo giveaway entry count (target: 50+ by June 30)
+
+### Content & Brand
+- [ ] Post one piece of content — YouTube Short, GBP update, or Facebook post
+- [ ] Check koi pond (not business — just Dave)
 
 ---
 
