@@ -40,11 +40,14 @@
 - [ ] Build Wall Geothermal competitor campaign
 - [ ] Build Hollifield competitor campaign
 - [ ] Geo giveaway: 50+ entries by June 30
+- [ ] BOGO PMA promotion — buy one plan, give one to a friend ($360 credit)
 - [ ] Grow Google reviews: 262 → 325+
 - [ ] GBP Q&As posted (5 drafted — post manually at business.google.com)
 - [ ] GBP API access approved (applied — check okcommerce.gov)
 - [ ] IGSHPA directory listing optimized
 - [ ] ClimateMaster dealer locator listing current
+- [ ] Align website/content for AI search (ChatGPT + Google AI Overview) — conversational content, authority signals
+- [ ] Amazon HVAC book — research self-publishing + Amazon Ads strategy
 
 ---
 
@@ -54,6 +57,22 @@
 - [ ] Same-day service capacity — track how often we turn down same-day
 - [ ] HCP pricebook: add Trane Bundles (pending)
 - [ ] Spring PMA SMS campaign — run before April
+- [ ] Add kitchen ventilation through the roof as a service offering
+
+---
+
+## Sales & Training Goals 2026
+- [ ] Technician sales training assets — script, leave-behind quote sheet PDF, checklist, slide deck
+- [ ] Repair vs. replacement explanation video (YouTube) for customers
+- [ ] Homeowner pricebook PDF — logo, section dividers, pro tips, QR code for booking
+
+---
+
+## Funnel & Community Goals 2026
+- [ ] Community-building strategy (Russell Brunson model) — welcome email sequences, exclusive content, advocacy
+- [ ] Dream 100 outreach — identify influencers, partners, referral channels in service area
+- [ ] Lead magnet funnel — PDF, webinar, or mini-course to pull prospects into pipeline
+- [ ] Follow-up funnels — 5-email lead nurture sequence + 3-email buyer upsell sequence
 
 ---
 
@@ -61,11 +80,11 @@
 - [ ] Wire Guthrie geo page (ID 5475) into Services hub
 - [ ] Keep rebate amounts current when utilities change rates
 - [ ] Update review count when it hits 270, 280, 300
+- [ ] Evaluate single-page / AI-first site approach as search behavior shifts
 
 ---
 
 ## Personal Goals
-*(add yours here)*
 
 - [ ]
 - [ ]
@@ -77,3 +96,4 @@
 - Biggest revenue opportunity: geo installs in Canadian County (CKenergy $2,000/ton — competitors quote $1,000/ton)
 - Spring is peak season — competitor campaigns running now
 - 2025 had 305 user cancellations — investigating causes could recover significant revenue
+- BBB A+ rating held 11 consecutive years — worth promoting more actively
